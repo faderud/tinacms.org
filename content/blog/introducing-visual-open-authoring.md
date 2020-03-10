@@ -13,7 +13,7 @@ In line with this mission, we sought to create something we call **Visual Open A
 
 **Picture this:** on your website, there's an _"Edit this page on GitHub"_ link — familiar enough. But imagine that when you click it, instead of kicking you over to GitHub, the site itself becomes editable, **like a Google Doc**.
 
-The experience should feel familiar for anyone that has used a word processor or site builder. You navigate to the page you want to change, click “Edit”, make updates in a WYSIWYG, and then submit your changes. That’s it 🧞‍♂️.
+The experience should feel familiar for anyone that has used a word processor or site builder. You navigate to the page you want to change, click “Edits”, make updates in a WYSIWYG, and then submit your changes. That’s it 🧞‍♂️.
 
 ![TinaCMS Visual Open Authoring](/gif/open-auth.gif)
 
